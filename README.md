@@ -3,30 +3,17 @@
 https://www.youtube.com/watch?v=Z1RJmh_OqeA 참고하며 만들었음.
 ## 실행화면
 
+![image](https://user-images.githubusercontent.com/81086966/129413364-2fbef858-a1b4-4bef-9fd4-31c3f43eed0a.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b7c9b297-3f9c-46d4-a12e-0da41996ae45/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b7c9b297-3f9c-46d4-a12e-0da41996ae45/Untitled.png)
+![image](https://user-images.githubusercontent.com/81086966/129413462-5f428488-2d98-46eb-9586-eb107f1303bb.png)
 
-메인화면
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9f0b17f0-316a-4d39-a375-7086be66f552/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9f0b17f0-316a-4d39-a375-7086be66f552/Untitled.png)
-
-데이터 추가했을 때
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5cfb51c-ebc1-4e95-ad1d-956be37e4ba9/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5cfb51c-ebc1-4e95-ad1d-956be37e4ba9/Untitled.png)
-
-삭제하기
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/70375f3c-3b34-4d70-8f75-afd951474b52/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/70375f3c-3b34-4d70-8f75-afd951474b52/Untitled.png)
-
-수정하기
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ae4641b-931f-4b9e-aa7d-7b2ccd23845b/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ae4641b-931f-4b9e-aa7d-7b2ccd23845b/Untitled.png)
-
-수정 결과
-
+![image](https://user-images.githubusercontent.com/81086966/129413483-a423d2a7-e145-4d22-bee5-48ff2c4253a6.png)
 
 
 ---
 
 ## 프로젝트 파일 구조
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fb8aa539-a0aa-4644-8452-425fec450e9c/Untitled.png)
-
+![image](https://user-images.githubusercontent.com/81086966/129413510-0426dc95-d341-4d0a-a10b-45c4c39ee82d.png)
 
 **env** : 프로젝트 작업할 가상 환경
 
