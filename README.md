@@ -1,6 +1,7 @@
 # FlaskTutorial
-플라스크 튜토리얼
-https://www.youtube.com/watch?v=Z1RJmh_OqeA 참고하며 만들었음.
+Flask로 만든 To Do List
+
+ 
 ## 실행화면
 
 ![image](https://user-images.githubusercontent.com/81086966/129413364-2fbef858-a1b4-4bef-9fd4-31c3f43eed0a.png)
