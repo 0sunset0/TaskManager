@@ -1,8 +1,10 @@
 # FlaskTutorial
 Flask로 만든 To Do List
 
+<br><br>
+
  
-## 실행화면
+# ⭐ 실행화면
 
 ![image](https://user-images.githubusercontent.com/81086966/129413364-2fbef858-a1b4-4bef-9fd4-31c3f43eed0a.png)
 
@@ -11,9 +13,11 @@ Flask로 만든 To Do List
 ![image](https://user-images.githubusercontent.com/81086966/129413483-a423d2a7-e145-4d22-bee5-48ff2c4253a6.png)
 
 
----
+<br><br>
 
-## 프로젝트 파일 구조
+
+
+# ⭐ 프로젝트 파일 구조
 ![image](https://user-images.githubusercontent.com/81086966/129413510-0426dc95-d341-4d0a-a10b-45c4c39ee82d.png)
 
 **env** : 프로젝트 작업할 가상 환경
