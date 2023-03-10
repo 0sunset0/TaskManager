@@ -1,5 +1,6 @@
-# FlaskTutorial
-Flask로 만든 To Do List
+
+# ⭐ Task Manager
+ Flask로 만든 할 일 관리 웹사이트입니다. 
 
 <br><br>
 
